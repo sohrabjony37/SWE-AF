@@ -22,4 +22,4 @@ swe-af = "swe_af.app:main"
 swe-fast = "swe_af.fast.app:main"
 
 [tool.setuptools.packages.find]
-include = ["swe_af*"]
+include = ["swe_af"]
